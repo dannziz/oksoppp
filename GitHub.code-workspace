@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Новая папка/src"
+		},
+		{
+			"path": "../../Downloads/Новая папка/dist"
+		},
+		{
+			"path": "../../Downloads/Новая папка/node_modules"
+		},
+		{
+			"path": "../../Downloads/Новая папка/public"
+		}
+	],
+	"settings": {}
+}
